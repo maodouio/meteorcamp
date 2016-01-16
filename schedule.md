@@ -11,6 +11,6 @@
 | **01/25** | 8-10PM  | 线上 Moxtra | Meteor进阶(1)：Publish and Subscription / Allow and Deny / 代码分析 | 翟伟明 |
 | **01/26** | 8-10PM  | 线上 Moxtra | Meteor进阶(2) /  Q&A / 代码分析 | 翟伟明 |
 | **01/27** | 8-10PM  | 线上 Moxtra | 用户登录(1): Packages inside / Other Login Packages / Meteor.users / 代码分析 | 李金龙 |
-| **01/27** | 8-10PM  | 线上 Moxtra | 用户登录(2) /  Q&A / 代码分析 | 李金龙 |
+| **01/28** | 8-10PM  | 线上 Moxtra | 用户登录(2) /  Q&A / 代码分析 | 李金龙 |
 | **01/31** | ?  | 清华FIT | 总结 / Q&A / 代码分析 | 翟伟明 & 李金龙 & 田思源 & 李明 |
 
