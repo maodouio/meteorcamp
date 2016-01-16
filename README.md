@@ -6,14 +6,15 @@
 
 - 工作环境平台的选择
 
-  (优先级由高到低)
+  (优先级由高到低；本课程不支持在Windows上直接使用Meteor。)
 
   1. Mac
   2. Linux (可以在Windows机器上安装Linux，成为双启动系统)
   3. Windows + Virtualbox + Linux
 
-  (本课程不支持在Windows上直接使用Meteor)
-  
+- 线上直播使用[Moxtra](www.moxtra.com)
+
+
 ## 课程安排
 
 [课程表](schedule.md)
