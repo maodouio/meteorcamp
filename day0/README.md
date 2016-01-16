@@ -228,23 +228,23 @@ Now serving at http://maodou-class.meteor.com
 
 ##### Sublime
 
-![](pics/sublime.png =600x500)
+![](pics/sublime.png)
 
 #### WebStorm
 
-![](pics/webstorm.png =600x800)
+![](pics/webstorm.png)
 
 ## 代码分析：Microscope
 
 ### Telescope
 
-![](pics/telescope.png =500x300)
+![](pics/telescope.png)
 
 ### Microscope
 
 我们将构建的应用是一个简化版的社交新闻网站，类似 Hacker News 或 Reddit，称为 Microscope（借鉴 基于 Meteor 的开源应用 Telescope），在课程中，解决构建 Meteor 应用需要的各种要素，例如用户账户、Collection、路由等等，后续会逐步讲到。
 
-![](pics/microscope.png =600x350)
+![](pics/microscope.png)
 
 
 ```
