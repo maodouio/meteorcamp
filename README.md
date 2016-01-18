@@ -17,11 +17,18 @@
 
 ## 课程安排
 
-[课程表](schedule.md)
+- [课程表](schedule.md)
+- [学员名单](students.md)
+- [讲师名单](lectures.md)
+
+## 讲义
+
+- [day 0](day0)
+- [day 1](day1)
 
 ## 参考资料
 
 - [Kevin在麦子学院上的Meteor视频](http://www.maiziedu.com/course/python/342-3446/)
 - [Discover Meteor 中文版](http://zh.discovermeteor.com/)
 - [MongoDB](http://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)
-- [网盘](https://yunpan.cn/cuC2fi3UwweeN) 提取码：59fd）
+- [网盘](https://yunpan.cn/cuC2fi3UwweeN) (提取码：59fd)
