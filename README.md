@@ -26,9 +26,16 @@
 - [day 0](day0)
 - [day 1](day1)
 
+## 考核
+
+- 在 github 里创建自己的项目
+- 发布自己的项目到 meteor.com
+
+
 ## 参考资料
 
 - [Kevin在麦子学院上的Meteor视频](http://www.maiziedu.com/course/python/342-3446/)
 - [Discover Meteor 中文版](http://zh.discovermeteor.com/)
+- [Understanding Meteor Internals](https://meteorhacks.com/understanding-meteor-internals.html)
 - [MongoDB](http://www.runoob.com/mongodb/mongodb-databases-documents-collections.html)
 - [网盘](https://yunpan.cn/cuC2fi3UwweeN) (提取码：59fd)
