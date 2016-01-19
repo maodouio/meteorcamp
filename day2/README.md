@@ -111,3 +111,4 @@ DDP消息如下：
 
 		meteor create —example [例子名]
 	
+- 每个人在本 repo 里最少提一个issue。
