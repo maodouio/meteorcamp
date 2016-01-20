@@ -1,4 +1,4 @@
-# 毛豆网Meteor 培训
+# 毛豆网Meteor 培训（本代码库已转移至https://github.com/meteorcamp/meteor101）
 
 ## 说明
 
